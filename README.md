@@ -2,6 +2,6 @@
 
 💫 Files
 
-1. Project File
-2. Sample Audio File
-3. Project Report
+1. Project
+2. Sample Audio
+3. Report
