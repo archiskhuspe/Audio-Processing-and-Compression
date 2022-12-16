@@ -2,6 +2,6 @@
 
 💫 Files
 
-1. Project
+1. MATLAB Code
 2. Sample Audio
 3. Report
