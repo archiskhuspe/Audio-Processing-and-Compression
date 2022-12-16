@@ -4,6 +4,6 @@ A MATLAB-based implementation of an audio editor compressor is investigated. By 
 
 💫 Files
 
-➡️ Project File
-➡️ Sample Audio File
-➡️ Project Report
+1. Project File
+2. Sample Audio File
+3. Project Report
